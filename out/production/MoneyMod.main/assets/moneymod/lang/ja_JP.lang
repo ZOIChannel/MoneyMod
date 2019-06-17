@@ -1,0 +1,17 @@
+item.wood_coin.name=木のコイン
+item.stone_coin.name=石のコイン
+item.iron_coin.name=鉄のコイン
+item.gold_coin.name=金のコイン
+item.diamond_coin.name=ダイヤのコイン
+itemGroup.Moneytab=マネーmod
+achievement.get_wood_coin=木のコインを手に入れた!
+achievement.get_stone_coin=石のコインを手に入れた!
+achievement.get_iron_coin=鉄のコインを手に入れた!
+achievement.get_gold_coin=金のコインを手に入れた!
+achievement.get_diamond_coin=ダイヤモンドのコインを手に入れた!
+achievement.get_wood_coin.desc=木のコインを手に入れる
+achievement.get_stone_coin.desc=石のコインを手に入れる
+achievement.get_iron_coin.desc=鉄のコインを手に入れる
+achievement.get_gold_coin.desc=金のコインを手に入れる
+achievement.get_diamond_coin.desc=ダイヤモンドのコインを手に入れる
+
