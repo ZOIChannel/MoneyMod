@@ -1,0 +1,16 @@
+item.wood_coin.name=Wood_coin
+item.stone_coin.name=Stone_coin
+item.iron_coin.name=Ilon_coin
+item.gold_coin.name=Gold_coin
+item.diamond_coin.name=Diamond_coin
+itemGroup.Moneytab=MoneyMod
+achievement.get_wood_coin=Get The Wood Coin!
+achievement.get_stone_coin=Get The Stone Coin!
+achievement.get_iron_coin=Get The Iron Coin!
+achievement.get_gold_coin=Get The Gold Coin!
+achievement.get_diamond_coin=Get The Diamond Coin!
+achievement.get_wood_coin.desc=Get The Wood Coin
+achievement.get_stone_coin.desc=Get The Stone Coin
+achievement.get_iron_coin.desc=Get The Iron Coin
+achievement.get_gold_coin.desc=Get The Gold Coin
+achievement.get_diamond_coin.desc=Get The Diamond Coin
