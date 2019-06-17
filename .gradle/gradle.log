@@ -1,0 +1,29 @@
+#################################################
+         ForgeGradle 1.2-SNAPSHOT-fb514d3        
+  https://github.com/MinecraftForge/ForgeGradle  
+#################################################
+               Powered by MCP unknown               
+             http://modcoderpack.com             
+         by: Searge, ProfMobius, Fesh0r,         
+         R4wk, ZeuX, IngisKahn, bspkrs           
+#################################################
+:downloadClient SKIPPED
+:downloadServer SKIPPED
+:getVersionJson
+:extractUserDev UP-TO-DATE
+:mergeJars SKIPPED
+:applyBinPatches SKIPPED
+:downloadMcpTools SKIPPED
+:extractMcpData UP-TO-DATE
+:genSrgs SKIPPED
+:deobfBinJar SKIPPED
+:extractNatives UP-TO-DATE
+:getAssetsIndex
+:getAssets
+:makeStart SKIPPED
+:setupDevWorkspace UP-TO-DATE
+:ideaModule
+
+BUILD SUCCESSFUL
+
+Total time: 13.906 secs
