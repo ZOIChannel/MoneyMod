@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/1.12.2samplemod" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/MCreator1.7.10/MCreator 1.7.3 [1.7.10] Mac-Linux 32-64bit/forge" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/minecraft mod/1.12.2/AdditionalPipesBC-6.0.0.8_plus" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../MoneyMod_1.1.0" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../MoneyMod_1.7.10" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SAOarmorMod" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SAOmod" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../minecraft mod/1.12.2/ToolsMod_1.0.1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../minecraft mod/1.12.2/ToolsMod_1.0.2" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

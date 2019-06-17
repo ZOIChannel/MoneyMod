@@ -7,23 +7,7 @@
          by: Searge, ProfMobius, Fesh0r,         
          R4wk, ZeuX, IngisKahn, bspkrs           
 #################################################
-:downloadClient SKIPPED
-:downloadServer SKIPPED
-:getVersionJson
-:extractUserDev UP-TO-DATE
-:mergeJars SKIPPED
-:applyBinPatches SKIPPED
-:downloadMcpTools SKIPPED
-:extractMcpData UP-TO-DATE
-:genSrgs SKIPPED
-:deobfBinJar SKIPPED
-:extractNatives UP-TO-DATE
-:getAssetsIndex
-:getAssets
-:makeStart SKIPPED
-:setupDevWorkspace UP-TO-DATE
-:ideaModule
 
 BUILD SUCCESSFUL
 
-Total time: 13.906 secs
+Total time: 8.797 secs
